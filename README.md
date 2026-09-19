@@ -63,6 +63,8 @@ de gerenciamento de cartões.
 
 [💻 Ver código](https://github.com/samuel-tolentino-viana/gerenciamento-de-cartoes)
 
+## Outros
+
 - [História do Android](https://github.com/samuel-tolentino-viana/historia-do-android)
 - [Projeto Cordel](https://github.com/samuel-tolentino-viana/projeto-cordel)
 - [Painel de Produto](https://github.com/samuel-tolentino-viana/painel-de-produto)
