@@ -26,7 +26,9 @@ lógica de programação e construir projetos cada vez maiores e mais completos.
 Projeto escolar de um site institucional para uma cooperativa fictícia
 de moda, desenvolvido com HTML5, CSS3 e JavaScript.
 
-[🔗 Ver projeto](https://github.com/samuel-tolentino-viana/Lirios-Brasil)
+[🔗 Ver projeto](https://samuel-tolentino-viana.github.io/Lirios-Brasil/pagina-principal/)
+
+[💻 Ver código](https://github.com/samuel-tolentino-viana/Lirios-Brasil)
 
 ---
 
@@ -35,7 +37,9 @@ de moda, desenvolvido com HTML5, CSS3 e JavaScript.
 Aplicação desenvolvida para praticar JavaScript, manipulação do DOM,
 objetos, arrays e persistência de dados com LocalStorage.
 
-[🔗 Ver projeto](https://github.com/samuel-tolentino-viana/lista-de-tarefas)
+[🔗 Ver projeto](https://samuel-tolentino-viana.github.io/lista-de-tarefas/)
+
+[💻 Ver código](https://github.com/samuel-tolentino-viana/lista-de-tarefas)
 
 ---
 
@@ -44,7 +48,9 @@ objetos, arrays e persistência de dados com LocalStorage.
 Projeto fictício de uma loja virtual desenvolvido para praticar
 interfaces, organização de produtos e interações com JavaScript.
 
-[🔗 Ver projeto](https://github.com/samuel-tolentino-viana/nova)
+[🔗 Ver projeto](https://samuel-tolentino-viana.github.io/nova/)
+
+[💻 Ver código](https://github.com/samuel-tolentino-viana/nova)
 
 ---
 
@@ -53,8 +59,54 @@ interfaces, organização de produtos e interações com JavaScript.
 Projeto desenvolvido para praticar JavaScript e criar uma interface
 de gerenciamento de cartões.
 
-[🔗 Ver projeto](https://github.com/samuel-tolentino-viana/gerenciamento-de-cartoes)
+[🔗 Ver projeto](https://samuel-tolentino-viana.github.io/gerenciamento-de-cartoes/)
 
+[💻 Ver código](https://github.com/samuel-tolentino-viana/gerenciamento-de-cartoes)
+
+---
+
+### 🤖 História do Android
+
+Desafio desenvolvido durante os estudos de HTML5 e CSS3 no curso
+do Gustavo Guanabara.
+
+[🔗 Ver projeto](https://samuel-tolentino-viana.github.io/historia-do-android/)
+
+[💻 Ver código](https://github.com/samuel-tolentino-viana/historia-do-android)
+
+---
+
+### 🎭 Projeto Cordel
+
+Desafio desenvolvido durante os estudos de HTML5 e CSS3 no curso
+do Gustavo Guanabara.
+
+[🔗 Ver projeto](https://samuel-tolentino-viana.github.io/projeto-cordel/)
+
+[💻 Ver código](https://github.com/samuel-tolentino-viana/projeto-cordel)
+
+---
+
+### 🛒 Painel de Produto
+
+Sistema de painel de produtos desenvolvido para praticar
+interações com produtos, carrinho, contagem de itens, valores
+e remoção de produtos.
+
+[🔗 Ver projeto](https://samuel-tolentino-viana.github.io/painel-de-produto/)
+
+[💻 Ver código](https://github.com/samuel-tolentino-viana/painel-de-produto)
+
+---
+
+### 💼 Projeto Portfólio
+
+Projeto desenvolvido a partir do último projeto do curso do
+Gustavo Guanabara, utilizado como prática e estudo de desenvolvimento web.
+
+[🔗 Ver projeto](https://samuel-tolentino-viana.github.io/projeto-portifolio/)
+
+[💻 Ver código](https://github.com/samuel-tolentino-viana/projeto-portifolio)
 ## Outros projetos
 
 - [História do Android](https://github.com/samuel-tolentino-viana/historia-do-android)
