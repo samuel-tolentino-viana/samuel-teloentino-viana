@@ -1,6 +1,6 @@
 # samuel-tolentino-viana
 
-# Olá, eu sou Samuel Tolentino Viana 👋👋
+# Olá, eu sou Samuel Tolentino Viana 👋
 
 Atualmente, sou estudante de desenvolvimento web e estou focado em
 front-end, tendo como principais tecnologias HTML5, CSS3 e JavaScript.
@@ -13,7 +13,7 @@ lógica de programação e construir projetos cada vez maiores e mais completos.
 
 ## Tecnologias
 
-### Atualmente estudando:
+### Atualmente estudando
 
 - HTML5
 - CSS3
@@ -28,12 +28,16 @@ de moda, desenvolvido com HTML5, CSS3 e JavaScript.
 
 [🔗 Ver projeto](https://github.com/samuel-tolentino-viana/Lirios-Brasil)
 
+---
+
 ### 📝 Lista de tarefas
 
 Aplicação desenvolvida para praticar JavaScript, manipulação do DOM,
 objetos, arrays e persistência de dados com LocalStorage.
 
 [🔗 Ver projeto](https://github.com/samuel-tolentino-viana/lista-de-tarefas)
+
+---
 
 ### 🛍️ NOVA
 
@@ -42,17 +46,35 @@ interfaces, organização de produtos e interações com JavaScript.
 
 [🔗 Ver projeto](https://github.com/samuel-tolentino-viana/nova)
 
-### 🛒 Painel de produto
+---
 
-Projeto desenvolvido para praticar manipulação de produtos,
-carrinho, contagem de itens, cálculo de valores e remoção de produtos.
+### 💳 Gerenciamento de Cartões
 
-[🔗 Ver projeto](https://github.com/samuel-tolentino-viana/painel-de-produto)
+Projeto desenvolvido para praticar JavaScript e criar uma interface
+de gerenciamento de cartões.
 
+[🔗 Ver projeto](https://github.com/samuel-tolentino-viana/gerenciamento-de-cartoes)
 
+## Outros projetos
 
+- [História do Android](https://github.com/samuel-tolentino-viana/historia-do-android)
+- [Projeto Cordel](https://github.com/samuel-tolentino-viana/projeto-cordel)
+- [Painel de Produto](https://github.com/samuel-tolentino-viana/painel-de-produto)
+- [Projeto Portfólio](https://github.com/samuel-tolentino-viana/projeto-portifolio)
 
+## Atualmente
 
+Estou aprofundando meus estudos em JavaScript, com foco em lógica de
+programação, manipulação do DOM, objetos, arrays, eventos e
+armazenamento de dados no navegador.
+
+Também continuo desenvolvendo projetos para colocar em prática
+os conceitos que estudo.
+
+## Objetivo
+
+Continuar evoluindo como desenvolvedor web e, futuramente, avançar
+para o desenvolvimento full stack.
 
 
 
