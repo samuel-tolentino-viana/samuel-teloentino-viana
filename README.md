@@ -1,5 +1,3 @@
-# samuel-tolentino-viana
-
 # Olá, eu sou Samuel Tolentino Viana 👋
 
 Atualmente, sou estudante de desenvolvimento web e estou focado em
@@ -70,7 +68,7 @@ de gerenciamento de cartões.
 - [Painel de Produto](https://github.com/samuel-tolentino-viana/painel-de-produto)
 - [Projeto Portfólio](https://github.com/samuel-tolentino-viana/projeto-portifolio)
 
-## Atualmente
+## Em desenvolvimento
 
 Estou aprofundando meus estudos em JavaScript, com foco em lógica de
 programação, manipulação do DOM, objetos, arrays, eventos e
